@@ -113,7 +113,7 @@ Tout se configure dans `CAM_FIELDS.json`
 - Scanlines / glitch
 
 ### 📐 Format
-- 16:9 ou carré
+- 16:9 
 
 ### 📊 Stats
 - Rotation automatique
