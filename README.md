@@ -12,15 +12,15 @@ Deux styles disponibles :
 ## 🖼️ Aperçu
 
 <p align="center">
-  <img src="https://i.ibb.co/jvkMrFmk/image.png" style="max-width:100%; height:auto;" alt="Cam Overlay Diablo 1">
+  <img src="https://i.ibb.co/DDfCRnhf/Capture-d-cran-2026-05-01-202659.png" width="100%" alt="Cam Overlay Preview 1">
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/q3Q1JPHJ/image.png" style="max-width:100%; height:auto;" alt="Cam Overlay Diablo 2">
+  <img src="https://i.ibb.co/XrRJYvnY/Capture-d-cran-2026-05-01-202715.png" width="100%" alt="Cam Overlay Preview 2">
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/ZR41w5dd/image.png" style="max-width:100%; height:auto;" alt="Cam Overlay Cyber">
+  <img src="https://i.ibb.co/PsXzbKxx/Capture-d-cran-2026-05-01-202724.png" width="100%" alt="Cam Overlay Preview 3">
 </p>
 
 ---
