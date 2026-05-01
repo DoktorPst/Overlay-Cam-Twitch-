@@ -1,30 +1,33 @@
-# 🎥 Cam Overlay — Diablo / Cyber Edition
+# 🎥 Cam Overlay — Version 16:9 (Diablo / Cyber Edition)
 
 ## 🔥 Présentation
-**Cam Overlay — Diablo / Cyber Edition** est un overlay caméra avancé pour stream (Twitch / OBS), conçu pour habiller ta caméra avec un cadre dynamique, des effets visuels réactifs et un système de stats + réseaux intégré.
+**Cam Overlay — Version 16:9** est un overlay caméra avancé pour stream (Twitch / OBS), conçu pour habiller ta caméra avec un cadre dynamique, des effets visuels réactifs et un système de stats + réseaux intégré.
 
 Deux styles disponibles :
 - ⚔️ **Diablo** (dark fantasy)
 - ⚡ **Cyber** (néon futuriste)
 
+👉 Version 1:1 (format carré) disponible ici :  
+https://github.com/DoktorPst/Overlay-Cam-Twitch
+
 ---
 
-## 🖼️ Aperçu
+## 🖼️ Aperçu (Format 16:9)
 
 <p align="center">
-  <img src="https://i.ibb.co/DDfCRnhf/Capture-d-cran-2026-05-01-202659.png" width="100%" alt="Cam Overlay Preview 1">
+  <img src="https://i.ibb.co/DDfCRnhf/Capture-d-cran-2026-05-01-202659.png" width="100%" alt="Cam Overlay 16:9 Preview 1">
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/XrRJYvnY/Capture-d-cran-2026-05-01-202715.png" width="100%" alt="Cam Overlay Preview 2">
+  <img src="https://i.ibb.co/XrRJYvnY/Capture-d-cran-2026-05-01-202715.png" width="100%" alt="Cam Overlay 16:9 Preview 2">
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/PsXzbKxx/Capture-d-cran-2026-05-01-202724.png" width="100%" alt="Cam Overlay Preview 3">
+  <img src="https://i.ibb.co/PsXzbKxx/Capture-d-cran-2026-05-01-202724.png" width="100%" alt="Cam Overlay 16:9 Preview 3">
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/wFWcxRvX/Capture-d-cran-2026-05-01-203546.png" width="100%" alt="Cam Overlay Preview 4">
+  <img src="https://i.ibb.co/wFWcxRvX/Capture-d-cran-2026-05-01-203546.png" width="100%" alt="Cam Overlay 16:9 Preview 4">
 </p>
 
 ---
@@ -113,7 +116,7 @@ Tout se configure dans `CAM_FIELDS.json`
 - Scanlines / glitch
 
 ### 📐 Format
-- 16:9 
+- **16:9 (640x360)**
 
 ### 📊 Stats
 - Rotation automatique
