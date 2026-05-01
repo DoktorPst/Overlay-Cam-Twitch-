@@ -20,11 +20,7 @@ Deux styles disponibles :
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/PsXzbKxx/Capture-d-cran-2026-05-01-202724.png" width="100%" alt="Cam Overlay Preview 3">
-</p>
-
-<p align="center">
-  <img src="https://i.ibb.co/4gYq8nZP/Capture-d-cran-2026-05-01-202734.png" width="100%" alt="Cam Overlay Preview 4">
+  <img src="i.ibb.co/4gYq8nZP/Capture-d-cran-2026-05-01-202734.png" width="100%" alt="Cam Overlay Preview 3">
 </p>
 
 ---
