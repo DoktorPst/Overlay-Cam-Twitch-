@@ -1,0 +1,56 @@
+{
+  "widgetName":{"type":"hidden","value":"🎥 Cam Overlay — FINAL"},
+
+  "theme":{"type":"dropdown","label":"🎨 Thème","value":"diablo","options":{"diablo":"⚔ Diablo","cyber":"⚡ Cyber"},"group":"🎨 Apparence"},
+  "channelName":{"type":"text","label":"Nom de la chaîne (tag sur la cam)","value":"Paglorieux","group":"🎨 Apparence"},
+  "channelTagPos":{"type":"dropdown","label":"Position tag nom","value":"auto","options":{"auto":"Auto","top":"En haut","bottom":"En bas"},"group":"🎨 Apparence"},
+  "glowIntensity":{"type":"slider","label":"Intensité bordure (0=off)","value":90,"min":0,"max":100,"step":5,"group":"🎨 Apparence"},
+  "showLiveBadge":{"type":"checkbox","label":"Badge LIVE (coin haut-droit)","value":true,"group":"🎨 Apparence"},
+  "scanlines":{"type":"checkbox","label":"Lignes de scan (thème Cyber)","value":false,"group":"🎨 Apparence"},
+  "glitchEffect":{"type":"checkbox","label":"Effet glitch (Cyber, off par défaut)","value":false,"group":"🎨 Apparence"},
+
+  "camFormat":{"type":"dropdown","label":"Format de la cam","value":"16:9","options":{"16:9":"16:9 — 640×360 (redimensionner dans OBS)","1:1":"1:1 carré — 480×480 (redimensionner dans OBS)"},"group":"📐 Format"},
+
+  "bandPos":{"type":"dropdown","label":"Position du bandeau","value":"top","options":{"top":"Au-dessus","bottom":"En-dessous"},"group":"📊 Stats & Réseaux"},
+  "rotInterval":{"type":"slider","label":"Durée par stat (sec)","value":5,"min":2,"max":30,"step":1,"group":"📊 Stats & Réseaux"},
+  "socRotInterval":{"type":"slider","label":"Durée par réseau (sec)","value":5,"min":2,"max":30,"step":1,"group":"📊 Stats & Réseaux"},
+  "followerCount":{"type":"text","label":"Followers (secours manuel)","value":"0","group":"📊 Stats & Réseaux"},
+  "topSubName":{"type":"text","label":"Top Supporter (vide = masqué)","value":"","group":"📊 Stats & Réseaux"},
+
+  "followGoalTarget":{"type":"number","label":"Objectif followers (0 = masquer)","value":0,"min":0,"max":9999999,"step":50,"group":"🎯 Objectifs"},
+  "subGoalTarget":{"type":"number","label":"Objectif abonnements (0 = masquer)","value":0,"min":0,"max":99999,"step":1,"group":"🎯 Objectifs"},
+  "subGoalCurrent":{"type":"number","label":"Abonnements actuels (manuel)","value":0,"min":0,"max":99999,"step":1,"group":"🎯 Objectifs"},
+  "goalSwitchInterval":{"type":"slider","label":"Durée avant switch follow↔sub (sec)","value":8,"min":3,"max":60,"step":1,"group":"🎯 Objectifs"},
+
+  "social1Enabled":{"type":"checkbox","label":"Réseau 1 — Activer","value":true,"group":"📱 Réseaux Sociaux"},
+  "social1Platform":{"type":"dropdown","label":"Réseau 1 — Plateforme","value":"twitch","options":{"twitch":"Twitch","youtube":"YouTube","twitter":"X / Twitter","tiktok":"TikTok","discord":"Discord","instagram":"Instagram"},"group":"📱 Réseaux Sociaux"},
+  "social1Name":{"type":"text","label":"Réseau 1 — Pseudo","value":"DoktorP3st","group":"📱 Réseaux Sociaux"},
+
+  "social2Enabled":{"type":"checkbox","label":"Réseau 2 — Activer","value":true,"group":"📱 Réseaux Sociaux"},
+  "social2Platform":{"type":"dropdown","label":"Réseau 2 — Plateforme","value":"twitch","options":{"twitch":"Twitch","youtube":"YouTube","twitter":"X / Twitter","tiktok":"TikTok","discord":"Discord","instagram":"Instagram"},"group":"📱 Réseaux Sociaux"},
+  "social2Name":{"type":"text","label":"Réseau 2 — Pseudo","value":"Paglorieux","group":"📱 Réseaux Sociaux"},
+
+  "social3Enabled":{"type":"checkbox","label":"Réseau 3 — Activer","value":true,"group":"📱 Réseaux Sociaux"},
+  "social3Platform":{"type":"dropdown","label":"Réseau 3 — Plateforme","value":"twitter","options":{"twitch":"Twitch","youtube":"YouTube","twitter":"X / Twitter","tiktok":"TikTok","discord":"Discord","instagram":"Instagram"},"group":"📱 Réseaux Sociaux"},
+  "social3Name":{"type":"text","label":"Réseau 3 — Pseudo","value":"Paglorieux","group":"📱 Réseaux Sociaux"},
+
+  "social4Enabled":{"type":"checkbox","label":"Réseau 4 — Activer","value":false,"group":"📱 Réseaux Sociaux"},
+  "social4Platform":{"type":"dropdown","label":"Réseau 4 — Plateforme","value":"youtube","options":{"twitch":"Twitch","youtube":"YouTube","twitter":"X / Twitter","tiktok":"TikTok","discord":"Discord","instagram":"Instagram"},"group":"📱 Réseaux Sociaux"},
+  "social4Name":{"type":"text","label":"Réseau 4 — Pseudo","value":"","group":"📱 Réseaux Sociaux"},
+
+  "social5Enabled":{"type":"checkbox","label":"Réseau 5 — Activer","value":false,"group":"📱 Réseaux Sociaux"},
+  "social5Platform":{"type":"dropdown","label":"Réseau 5 — Plateforme","value":"discord","options":{"twitch":"Twitch","youtube":"YouTube","twitter":"X / Twitter","tiktok":"TikTok","discord":"Discord","instagram":"Instagram"},"group":"📱 Réseaux Sociaux"},
+  "social5Name":{"type":"text","label":"Réseau 5 — Pseudo","value":"","group":"📱 Réseaux Sociaux"},
+
+  "social6Enabled":{"type":"checkbox","label":"Réseau 6 — Activer","value":false,"group":"📱 Réseaux Sociaux"},
+  "social6Platform":{"type":"dropdown","label":"Réseau 6 — Plateforme","value":"instagram","options":{"twitch":"Twitch","youtube":"YouTube","twitter":"X / Twitter","tiktok":"TikTok","discord":"Discord","instagram":"Instagram"},"group":"📱 Réseaux Sociaux"},
+  "social6Name":{"type":"text","label":"Réseau 6 — Pseudo","value":"","group":"📱 Réseaux Sociaux"},
+
+  "effectIntensity":{"type":"dropdown","label":"Intensité effets événements","value":"med","options":{"off":"Off","low":"Faible — flash simple","med":"Moyen — flash + vague + texte","high":"Fort — tout + éclairs + anneaux"},"group":"✨ Effets"},
+  "effectWave":{"type":"checkbox","label":"Vague lumineuse","value":true,"group":"✨ Effets"},
+  "effectRings":{"type":"checkbox","label":"Anneaux concentriques","value":true,"group":"✨ Effets"},
+  "effectText":{"type":"checkbox","label":"Texte annonce (ex: NOUVEAU FOLLOW !)","value":true,"group":"✨ Effets"},
+  "effectLightning":{"type":"checkbox","label":"Éclairs depuis les coins (mode Fort)","value":true,"group":"✨ Effets"},
+  "showParticles":{"type":"checkbox","label":"Particules flottantes","value":true,"group":"✨ Effets"},
+  "particleDensity":{"type":"slider","label":"Densité particules (1=rare → 10=dense)","value":3,"min":1,"max":10,"step":1,"group":"✨ Effets"}
+}
